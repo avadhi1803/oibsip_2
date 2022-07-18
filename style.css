@@ -1,0 +1,259 @@
+body
+{
+    background-image: url(blackbg.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
+    margin: 0;
+}
+
+.adjust
+{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.adjust1
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header
+{
+    color: lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.heading1
+{
+   color: #C8A2C8; 
+   font-family: 'Times New Roman', Times, serif;
+   text-align: justify;
+   font-size: x-large;
+   margin-top: 90px;
+}
+
+.name
+{
+    color: #fa8072;
+    font-size: 70px;
+}
+
+.intro
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: #C8A2C8;
+    width: 480px;
+    text-align: justify;
+}
+
+.mypic
+{
+    width: 400px;
+    height: 550px;
+    border-radius: 100%;
+}
+
+.about
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightseagreen;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.projectheading
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightseagreen;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 90px;
+}
+
+.clg 
+{
+    color: #C8A2C8;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: justify;
+    width: 700px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    vertical-align: middle;
+}
+
+.pic2
+{
+    height: 450px;
+    width: 400px;
+    margin-right: 10px;
+    border-radius: 100%;
+    margin-bottom: 50px;
+}
+
+#top
+{
+    margin-top: 20px;
+}
+
+.images
+{
+    width: 450px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-color: #fa8072;
+    border-style: dotted;
+    border-width: 5px;
+}
+
+.project
+{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fa8072;
+    margin-top: 50px;
+}
+
+.para
+{
+    color: #C8A2C8;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.git
+{
+    color: lightseagreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.htmlchart
+{
+    display: block;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border-style: dashed;
+    border-color: #fa8072;
+    background-image: conic-gradient( 
+            green 80%,
+            transparent 20%);
+    margin-bottom: 60px;
+}
+
+.csschart
+{
+    display: block;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border-style: dashed;
+    border-color: #fa8072;
+    background-image: conic-gradient( 
+            green 85%,
+            transparent 15%);
+    margin-bottom: 60px;
+}
+
+.jschart
+{
+    display: block;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border-style: dashed;
+    border-color: #fa8072;
+    background-image: conic-gradient( 
+            green 65%,
+            transparent 35%);
+    margin-bottom: 60px;
+}
+
+#skillhead
+{
+    color: #fa8072;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+
+form
+{
+    width: max-content;
+    background-color: transparent;
+    padding: 20px;
+    margin-left: 41%;
+    margin-bottom: 70px;
+    color: #C8A2C8;
+}
+
+.fa 
+{
+    padding: 20px;
+    font-size: 60px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #fa8072;
+}
+
+form:hover
+{
+    background-color: #C8A2C8;
+}
+
+input
+{
+    border-radius: 20%;
+    border-color: #fa8072;
+    border-width: 10px;
+    padding: 20px;
+}
+
+button
+{
+    border-radius: 10%;
+    border-color: brown;
+    border-width: 5px;
+    padding: 10px;
+    background-color: lightseagreen;
+    position: absolute;
+    align-content: center;
+    align-self: center;
+    color: black;
+}
+
+h4
+{
+    text-align: center;
+    font-size: large;
+    color: #C8A2C8;
+}
+
+.top
+{
+    color: lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: large;
+    margin-top: 5px;
+    margin-left: 5px;
+}
